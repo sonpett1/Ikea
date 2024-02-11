@@ -1,0 +1,14 @@
+C:\GAprojects\Ikea\Ikea\bin\Debug\net8.0\Ikea.exe
+C:\GAprojects\Ikea\Ikea\bin\Debug\net8.0\Ikea.deps.json
+C:\GAprojects\Ikea\Ikea\bin\Debug\net8.0\Ikea.runtimeconfig.json
+C:\GAprojects\Ikea\Ikea\bin\Debug\net8.0\Ikea.dll
+C:\GAprojects\Ikea\Ikea\bin\Debug\net8.0\Ikea.pdb
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.GeneratedMSBuildEditorConfig.editorconfig
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.AssemblyInfoInputs.cache
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.AssemblyInfo.cs
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.csproj.CoreCompileInputs.cache
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.dll
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\refint\Ikea.dll
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.pdb
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\Ikea.genruntimeconfig.cache
+C:\GAprojects\Ikea\Ikea\obj\Debug\net8.0\ref\Ikea.dll
